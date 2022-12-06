@@ -1,0 +1,11 @@
+.mngFlights{
+	-fx-font-weight: bold;
+	
+}
+.mngFlightsL:hover{
+	-fx-font-weight: bold;
+	-fx-font-underline: true;
+}
+.mngPassengers{
+	
+	}
